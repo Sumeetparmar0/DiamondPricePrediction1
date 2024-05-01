@@ -15,3 +15,24 @@ List of models the project uses to train on the dataset -
 * Elastic Net
 * Random Forest
 * Decision Tree
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+git clone https://github.com/Sumeetparmar0/DiamondPricePrediction1.git
+
+2. Navigate to the project directory:
+cd DiamondPricePrediction1
+
+3. Install the required dependencies using pip:
+pip install -r requirements.txt
+
+4. Run the Flask application:
+python application.py
+
+5. Open your web browser and go to
+http://127.0.0.1:5000/ - to access the home page
+
+http://127.0.0.1:5000/predict - to perform prediction of diamond price on the web application.
